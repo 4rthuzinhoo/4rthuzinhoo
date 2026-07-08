@@ -16,5 +16,5 @@
 ⏳ Em desenvolvimento...
 
 ## 💼 Contato
- - Linkedln https://www.linkedin.com/in/arthur-aur%C3%A9lio-846634288/
+ - Linkedln: [Arthur Aurélio](https://www.linkedin.com/in/arthur-aur%C3%A9lio-846634288/)
  -  Email  arthuraurelio.tech@gmail.com
