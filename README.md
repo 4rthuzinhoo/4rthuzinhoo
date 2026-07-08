@@ -8,8 +8,8 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,pandas,jupyter,mysql,git,vscode" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,jupyter" />
 </p>
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ## 📂 Projetos
 
